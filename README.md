@@ -4,9 +4,10 @@ Requirement
 - Nodejs : v20.15.0
 - NPM : 10.7.0
 
-How To install
 
+How To install
 - git clone https://github.com/wildaan/TestCode.git
+- import db from folder db ,create two schema master and public
 - cp .env.example .env
 - npm install -g @adonisjs/cli
 - cd BaseService
